@@ -44,7 +44,7 @@
 
 <h2>💻MY Status</h2>
 
-![kyxxgsoo  's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyxxgsoo&show_icons=true&theme=dark)
+![kyxxgsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyxxgsoo&show_icons=true&theme=dark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyxxgsoo&layout=compact&theme=dark)
 
