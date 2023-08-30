@@ -2,7 +2,7 @@
 
 <h1>Lee Kyung Soo</h1>
 
-<a href="https://www.instagram.com/kyxxgsoo/" target="_blank"><img src="https://img.shields.io/badge/kyxxgsoo-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a> &nbsp
+<a href="https://www.instagram.com/kyxxgsoo/" target="_blank"><img src="https://img.shields.io/badge/kyxxgsoo-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://kyxxgsoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>&nbsp
 <img src="https://img.shields.io/badge/jmtkd9196@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>&nbsp
 <img src="https://img.shields.io/badge/이경수%232211-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/>
