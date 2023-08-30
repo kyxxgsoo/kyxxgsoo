@@ -1,6 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kyxxgsoo)
 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kyxxgsoo.tistory.com/"/>
+<h1>Kyxxgsoo</h1>
+
+<a href="https://kyxxgsoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/jmtkd9196@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/>
+
+<h2>💻MY Status</h2>
+
+![Kyxxgsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxxgsoo&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxxgsoo&layout=compact&theme=dark)
 
 <!--
 **kyxxgsoo/kyxxgsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
