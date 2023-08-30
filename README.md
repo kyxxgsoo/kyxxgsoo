@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kyxxgsoo)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=kyxxgsoo)
 
 <h1>Lee Kyung Soo</h1>
 <p align="leading">
@@ -43,9 +43,9 @@
 </p>
 
 <h2>💻MY Status</h2>
-![Kyxxgsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyxxgsoo&show_icons=true&theme=dark)
+![kyxxgsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyxxgsoo&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxxgsoo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyxxgsoo&layout=compact&theme=dark)
 
 <!--
 **kyxxgsoo/kyxxgsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
