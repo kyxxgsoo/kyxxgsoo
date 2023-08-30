@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kyxxgsoo)
 <h1>Lee Kyung Soo</h1>
 
-<h2>Kyxxgsoo's Log</h2>
+<br>
+
+<h2>kyxxgsoo's Log</h2>
 <p align="leading">
   <a href="https://www.instagram.com/kyxxgsoo/" target="_blank"><img src="https://img.shields.io/badge/kyxxgsoo-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://kyxxgsoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
@@ -10,7 +12,7 @@
   <br>
 </p>
 
-<h2>📖 Language</h2>
+<h2>📖 Languages</h2>
 <p align="leading">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>
