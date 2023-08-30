@@ -21,8 +21,8 @@
 
 <h2>📚 Stacks</h2>
 <p align="leading">
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF"/>
@@ -33,11 +33,12 @@
 
 <h2>🛠️ Tools</h2>
 <p align="leading">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/>
   <br>
 </p>
 
