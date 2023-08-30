@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Kyxxgsoo)
+
 <h1>Lee Kyung Soo</h1>
-
-<br>
-
-<h2>kyxxgsoo's Log</h2>
 <p align="leading">
   <a href="https://www.instagram.com/kyxxgsoo/" target="_blank"><img src="https://img.shields.io/badge/kyxxgsoo-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
   <a href="https://kyxxgsoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
