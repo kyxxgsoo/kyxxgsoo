@@ -6,7 +6,7 @@
 
 <h2>📖 Language</h2>
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python-3776AB&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JAVA-40AEF0?style=flat-square&logo=JAVA&logoColor=40AEF0"/> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python-3776AB&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JAVA-40AEF0?style=flat-square&logo=JAVA&logoColor=40AEF0"/> 
 
 <h2>📚 Stacks</h2>
 
